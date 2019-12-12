@@ -22,6 +22,8 @@ SET time_zone = "+00:00";
 -- Database: `vuurwerk`
 --
 
+CREATE DATABASE IF NOT EXISTS `vuurwerk`;
+
 -- --------------------------------------------------------
 
 --
